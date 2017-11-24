@@ -3,6 +3,8 @@
 
 ## Project Specs
 
+Code Recieved from [https://github.com/emerging-technologies/keras-iris](https://github.com/emerging-technologies/keras-iris)
+
 ### 1. Use Tensorflow to create model
 
 
