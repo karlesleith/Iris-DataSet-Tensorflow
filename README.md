@@ -1,9 +1,9 @@
 # Iris Dataset Tensorflow Problem Sheet
 ## CA Relating to Fourth Year Emerging Technolgies
 
-## Project Specs
-
 Code Recieved from [https://github.com/emerging-technologies/keras-iris](https://github.com/emerging-technologies/keras-iris)
+
+## Project Specs
 
 ### 1. Use Tensorflow to create model
 
