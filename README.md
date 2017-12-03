@@ -46,7 +46,7 @@ Make sure you have at least Python 3.5 installed
 
 **REF** [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-Be sure install Keras and Jupyter Notebook and upgraded to latist version
+Be sure install Keras and Jupyter Notebook and upgraded to latest version
 
 `pip --upgrade keras`
 `pip --upgrade jupyter notebook`
